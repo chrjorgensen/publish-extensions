@@ -35,7 +35,7 @@
     "deep-equal-in-any-order": "^2.0.6",
     "download": "^8.0.0",
     "fast-glob": "^3.2.12",
-    "find-up": "^5.0.0",
+    "find-up": "^8.0.0",
     "human-number": "^2.0.0",
     "jest-diff": "^30.2.0",
     "limiter": "^3.0.0",
